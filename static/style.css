@@ -1,0 +1,45 @@
+body {
+    /* background: white; */
+    /* box-shadow: 0 0 200px #f4f4f4 inset !important; */
+    box-shadow: 0 0 20px 20px #00000003 inset !important;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scroll-hidden::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scroll-hidden {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.bottom-spacer {
+    height: 100px;
+}
+
+.carousel-item img {
+    height: 350px;
+}
+
+.Theme-Colors {
+    color: #ff5722;
+    color: #ff9800;
+    color: #ffc107;
+    color: #ffeb3b;
+    color: #cddc39;
+    color: #8bc34a;
+    color: #a3cfbb;
+    color: #00bcd4;
+    color: #03a9f4;
+    color: #e91e63;
+    color: #f44336;
+    color: #9c27b0;
+    columns: #d63384;
+    columns: #c4c8cb;
+    color: #f1aeb5;
+    color: #f8d7da;
+}
